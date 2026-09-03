@@ -133,7 +133,8 @@ taxpayer win, and the difference is instructive: Harding's move was permanent in
 
 **Where to go.** Screening 40+ jurisdictions against 15 criteria, the UAE ranks first
 (weighted 8.45/10): no personal income tax at all, no capital gains tax, no wealth or estate
-tax, no exit tax, a Golden Visa obtainable on AED 2m of property with no minimum stay, clear
+tax, no exit tax, several self-sponsored Golden Visa routes (capital-free on the skilled-professional
+route; ~AUD 250k–450k of equity on the mortgaged-property route since February 2026), clear
 statutory tax-residency criteria (Cabinet Decision 85/2022; Ministerial Decision 27/2023),
 and deep VARA-regulated crypto liquidation infrastructure. Its one real weakness is that
 **Australia and the UAE have no double tax agreement**, so there is no treaty tie-breaker to

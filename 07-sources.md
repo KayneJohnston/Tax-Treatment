@@ -34,6 +34,10 @@ Covers brief section 31.
 | **ITAA 1936 Part X / Div 6AAA** | CFC and transferor trust rules | `legislation.gov.au` |
 | **International Tax Agreements Act 1953, s 4** | Treaties override the Assessment Acts (Part IVA excepted) | `legislation.gov.au/C1953A00082`; `austlii.edu.au/au/legis/cth/consol_act/itaa1953299/` |
 | **SIS Act 1993 s 66** | Prohibition on an SMSF acquiring assets from related parties | `legislation.gov.au` |
+| **ITAA 1997 s 768‑915** | Temporary residents disregard the CGT event I1 gain | `legislation.gov.au` (ITAA 1997 compilation) |
+| **ITAA 1997 s 995‑1(1)** | Definition of "temporary resident" — requires a temporary visa and not being an Australian resident under the *Social Security Act 1991*; **excludes Australian citizens** | `legislation.gov.au`; see also **TD 2012/18** |
+| **Income Tax (Transitional Provisions) Act 1997, s 104‑166** | Preserves the repealed s 104‑165(1) short-term resident exception for those in Australia on 6 April 2006 | `austlii.edu.au/au/legis/cth/consol_act/itpa1997402/s104.166.html` |
+| **Tax Laws Amendment (2006 Measures No. 4) Act 2006, Sch 1 item 20** | **Repealed s 104‑165(1)** (the short-term resident exemption) for CGT events from 1 July 2006 | `ato.gov.au/law/view/pdf?DocId=PAC%2F20060168%2FSch4-Cl7` |
 | **Tax Laws Amendment (2013 Measures No. 2) Act 2013, Sch 7** | Removal of the CGT discount for foreign individuals from 8 May 2012 | `austlii.edu.au/au/legis/cth/num_act/tla2013mn2a2013314/sch7.html`; EM at `treasury.gov.au/sites/default/files/2019-03/Explanatory_Materials-2.pdf` |
 | **Treasury Laws Amendment (Reducing Pressure on Housing Affordability Measures) Act 2019** | Main residence exemption denied to foreign residents | `legislation.gov.au` |
 | **Treasury Laws Amendment (More Cost of Living Relief) Act 2025** | 16% → 15% second bracket from 1 July 2026 | `legislation.gov.au` |
@@ -92,6 +96,10 @@ Covers brief section 31.
 - **Federal Decree-Law No. 47 of 2022** on the Taxation of Corporations and Businesses (Art. 11 — natural persons): `mof.gov.ae/wp-content/uploads/2022/12/Federal-Decree-Law-No.-47-of-2022-EN.pdf`; `tax.gov.ae`
 - **Cabinet Decision No. 49 of 2023** — AED 1,000,000 turnover threshold for natural persons
 - UAE Ministry of Finance announcement of Cabinet Decision 85/2022: `mof.gov.ae/en/news/following-cabinet-decision-85-of-2022/`
+- **ICP (Federal Authority for Identity, Citizenship, Customs and Port Security)** — denial of the "AED 100,000 lifetime Golden Visa" claims (July 2025) and reiterated warning that applications must go through official channels and no consultancy is an authorised intermediary (2 February 2026)
+- **Abu Dhabi Department of Economic Development / ADRO** — Golden Visa for skilled professionals: AED 30,000 monthly **basic** salary (May 2024 tightening), attested degree, MOHRE level 1–2 classification: `added.gov.ae/en/live/long-term-residency/abu-dhabi-golden-visa/for-specialists/for-skilled-professionals`
+- **GDRFA Dubai** — Golden Residence Permit issuance services: `gdrfad.gov.ae`
+- Dubai Land Department — 4% property transfer fee; February 2026 removal of the 50%-paid-up requirement for the Golden Visa property route (qualification now on DLD valuation regardless of mortgage or amount paid)
 
 **Singapore**
 - **IRAS e-Tax Guide, *Income Tax Treatment of Digital Tokens***: `iras.gov.sg/media/docs/default-source/e-tax/etaxguide_cit_income-tax-treatment-of-digital-tokens_091020.pdf`

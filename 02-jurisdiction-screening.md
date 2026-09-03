@@ -157,17 +157,82 @@ it does **not** engage any tie-breaker.
 
 ### Visa options
 
-| Route | Requirement | Minimum stay | Fit |
-|---|---|---|---|
-| **Golden Visa (property)** | **AED 2m** (~AUD 830k) in approved real estate; mortgaged and off-plan property now qualifies (2026 change) | **None** | Best fit — but note it consumes ~70% of the taxpayer's net worth |
-| **Golden Visa (skilled professional)** | Basic salary from AED 30,000/month + degree | None | Good if employment is available |
-| **Golden Visa (entrepreneur)** | Approved project ≥ AED 500,000 | None | Possible |
-| **Employment visa** | Company sponsorship | Tied to job | **Avoid an Australian-employer secondment — that is the *Quy* fact pattern** |
-| **Freelance / remote work visa** | Income evidence | Varies | Weaker substance |
+The **Golden Visa** is a self-sponsored, 10-year renewable residence permit allowing the holder to
+sponsor a spouse and children. It is **not new** — launched 2019, materially expanded 2022, and
+refined since. Processing runs **1–8 weeks**, and a clean property application can clear in
+**7–10 business days**, through ICP or GDRFA. Government fees are trivial; the capital requirement
+is the real cost.
 
-**Can the taxpayer become UAE tax resident without employment? Yes** — through the property
+| Route | Capital required | Government fees | Other transaction cost | Realistic cash outlay | Minimum stay |
+|---|---|---|---|---|---|
+| **Golden Visa — property** | AED 2m valuation (~AUD 830k) | AED 9,685–10,250 | **4% Dubai Land Department transfer fee ≈ AED 80,000** | ~AUD 865k outright | **None** |
+| **Golden Visa — property, mortgaged** | AED 2m *valuation* (see below) | same | same 4% DLD fee | **~AUD 250k–450k** equity + fees | **None** |
+| **Golden Visa — bank deposit** | AED 2m deposit (~AUD 830k) | AED 4,600–4,650 | — | ~AUD 832k, but **liquid and recoverable** | **None** |
+| **Golden Visa — skilled professional** | **None** | AED 5,500–7,000 | Degree attestation + equivalency certificate | **~AUD 3,000** | **None** |
+| **Golden Visa — entrepreneur** | Approved project ≥ AED 500,000 | ~AED 5,000–7,000 | — | ~AUD 210k | **None** |
+| **Ordinary employment visa** | None | Employer-borne | — | Nominal | Tied to the job |
+| **Freelance / remote work visa** | Income evidence | Varies | — | Nominal | Varies |
+
+*(AED ≈ 2.42 to the AUD — verify the spot rate.)*
+
+**The February 2026 change is the one that matters here.** The UAE removed the 50%-paid-up rule on
+the property route: an applicant now qualifies on a **Dubai Land Department valuation of AED 2m or
+more, regardless of how much has been paid or whether the property is mortgaged**. This materially
+reduces the capital barrier — the requirement is equity plus the 4% DLD fee, not the full AED 2m.
+⚠️ **Verify before relying on it:** non-resident mortgage LTVs in the UAE are typically tighter
+than resident ones (often 40–50% deposit), and the lender will want serviceable income.
+
+**The skilled-professional route is the best fit if achievable**, because it requires no capital and
+solves the question of what the family lives on. But read the threshold carefully: **AED 30,000 per
+month of *basic* salary, excluding allowances** (tightened in May 2024), plus an attested bachelor's
+degree accredited by the Ministry of Education with an equivalency certificate, a UAE-approved
+employment contract, and a role classified level 1 or 2 under MOHRE's occupational scheme. UAE
+packages routinely split basic from housing and transport allowances, with basic often only 50–60%
+of the total — so showing AED 30,000 basic realistically needs a package around **AED 45,000–60,000
+per month (AUD 225k–300k)**. That is a substantial step up from this taxpayer's AUD 150,000 and is
+the binding constraint on the route.
+
+**Can the taxpayer become UAE tax resident without employment? Yes** — via the property or deposit
 Golden Visa plus 183 days of presence and a permanent home. This is a genuine advantage over
 Singapore and Hong Kong.
+
+### ⚠️ Two things the Golden Visa is *not*
+
+**1. It is not a tax benefit.** The UAE has no personal income tax **regardless of visa type** — a
+Golden Visa holder and an ordinary employment-visa holder both pay 0%. The 0% comes from the
+absence of an income tax law, not from the visa. Critically, **a Golden Visa does not itself make
+you a UAE tax resident**: that is a separate Federal Tax Authority test under Cabinet Decision
+85/2022 (183 days, or 90 days plus a permanent home or UAE employment/business). A Golden Visa
+holder with a Dubai apartment and 95 days of presence qualifies; the same person with no UAE
+property or business and 95 days does not.
+
+What the Golden Visa actually buys is **independence from employer sponsorship** — which matters on
+the *Australian* residency axis, not the UAE tax axis. In *Quy* the Tribunal held against the
+taxpayer partly because his right to remain in Dubai "depended entirely on a temporary residence
+permit sponsored by the host company". A self-sponsored 10-year visa in the taxpayer's own name
+removes that specific argument. **A Golden Visa is a strengthening move on the *Quy* problem, not a
+prerequisite** — an ordinary UAE employment visa with a genuine local employer reaches tax residency
+perfectly well.
+
+**2. Its headline selling point is the feature you must not use.** Golden Visa marketing leads with
+**"no minimum stay requirement"**. For this strategy that is exactly backwards: you need 183 days of
+actual UAE presence for tax residency, and materially more than that for the Australian residency
+position to survive. A Golden Visa held while living elsewhere delivers a residence permit and an
+indefensible non-residency claim. 🔴
+
+### ⚠️ Fraud in the Golden Visa advisory market
+
+In July 2025 a viral claim that the UAE was offering **lifetime Golden Visas for a one-off
+AED 100,000** to certain nationalities was **denied outright by the ICP** (Federal Authority for
+Identity, Citizenship, Customs and Port Security) as having "no legal basis". The consultancy that
+originated it publicly apologised and withdrew from Golden Visa advisory work; VFS Global denied any
+involvement. The ICP reiterated the warning on **2 February 2026**, stressing that all applications
+must be submitted through **official government platforms** and that **no external consultancy is a
+recognised authorised intermediary**.
+
+Treat as fraud indicators: any agent promising a shortcut, a discount tier, a nationality-specific
+"lifetime" visa, guaranteed approval, or application from outside the UAE through a commercial
+intermediary.
 
 ### Crypto practicalities
 
@@ -193,8 +258,12 @@ Singapore and Hong Kong.
    Article 4 tie-breaker** to resolve it. Domestic-law substance is the only defence. This is the
    UAE's single biggest weakness and it is material.
 2. **The ATO knows this pattern.** *Quy* was a Dubai case. Expect scrutiny.
-3. **Capital lock-up.** AED 2m of property is ~70% of the taxpayer's net worth, and would require
-   selling Bitcoin — creating a chicken-and-egg problem addressed in the timeline at §5.
+3. **Capital requirement.** The property and deposit routes each need AED 2m (~AUD 830k), about 70%
+   of the taxpayer's net worth, and funding either by selling Bitcoin creates a chicken-and-egg
+   problem. **This is materially eased but not eliminated by the February 2026 mortgage change**
+   (equity of ~AUD 250k–450k rather than the full sum) and is avoided entirely on the
+   skilled-professional route — which instead requires an AED 30,000/month *basic* salary the
+   taxpayer does not currently earn. Sequencing is addressed in the timeline at §5.
 4. **Cost.** International school fees run AED 40,000–100,000+ per child per year; housing is
    expensive.
 

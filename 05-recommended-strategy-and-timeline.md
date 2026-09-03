@@ -152,7 +152,7 @@ account is both simpler and far safer.
 | | |
 |---|---|
 | **Residency status** | 🇦🇺 Resident |
-| **Actions** | Lodge the destination visa application (UAE Golden Visa: ~AED 2m property, or a genuine local employment offer). Visit the destination; sign a 12-month+ lease or purchase. Enrol the child in school. Open a destination bank account. List or sell the Australian home. Give notice to the Australian employer, timed so employment ends **on or before 30 June**. Identify and realise genuine capital losses. |
+| **Actions** | Lodge the destination visa application. **Decide the route first** (see §2.3): skilled-professional Golden Visa needs no capital but AED 30,000/month *basic* salary; mortgaged property needs ~AUD 250k–450k of equity plus the 4% DLD fee; the AED 2m bank deposit is liquid but ties up ~70% of net worth; an ordinary employment visa with a genuine local employer also reaches tax residency, just with a weaker answer to *Quy*. Apply only through official ICP/GDRFA channels — no intermediary is authorised. Visit the destination; sign a 12-month+ lease or purchase. Enrol the child in school. Open a destination bank account. List or sell the Australian home. Give notice to the Australian employer, timed so employment ends **on or before 30 June**. Identify and realise genuine capital losses. |
 | **Documentation** | Visa approval; lease/title; school offer; bank account opening pack; employer resignation letter |
 | **Avoid** | Accepting a secondment or overseas posting **from the Australian employer** — that is the *Quy* fact pattern and it is the single most reliable way to lose |
 

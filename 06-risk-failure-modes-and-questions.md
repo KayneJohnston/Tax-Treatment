@@ -328,9 +328,21 @@ it first appears**.
 6. **The spouse and child must genuinely move.** This is not a tax structuring point that can be
    engineered around; it is a lived-life requirement, and it is where most such plans fail.
 
-7. **The UAE Golden Visa property requirement (AED 2m ≈ AUD 830k) is ~70% of this taxpayer's net
-   worth**, and funding it requires selling Bitcoin — the very thing the strategy exists to avoid
-   selling in Australia. This is a genuine chicken-and-egg problem.
+7. **The UAE Golden Visa's capital routes are out of proportion to this taxpayer's net worth.**
+   The property and deposit routes each need AED 2m (≈ AUD 830k), about 70% of everything they own,
+   and funding either by selling Bitcoin is the very thing the strategy exists to avoid. The
+   February 2026 removal of the 50%-paid-up rule eases this — mortgaged property now qualifies on
+   valuation alone, so the outlay is equity plus the 4% DLD fee (~AUD 250k–450k) — but non-resident
+   mortgage LTVs are tight and require serviceable income. The capital-free alternative, the
+   skilled-professional route, needs **AED 30,000/month of *basic* salary excluding allowances**,
+   which in a typical UAE package structure implies a total package of AUD 225k–300k. **There is no
+   route that is simultaneously capital-free and available on a AUD 150,000 salary.**
+
+7b. **The Golden Visa confers no tax benefit at all,** and does not by itself make you a UAE tax
+   resident — that is a separate Federal Tax Authority test. Its most-marketed feature, "no minimum
+   stay requirement", is precisely the feature this strategy must not use. The advisory market
+   around it also contains outright fraud: the ICP denied the viral "AED 100,000 lifetime Golden
+   Visa" claim in July 2025 and repeated the warning in February 2026.
 
 8. **Several famous "0% crypto countries" are not.** Cyprus imposed 8% from 1 January 2026. Italy
    went to 33% in 2026. New Zealand taxes crypto disposals as ordinary income at up to 39% despite

@@ -134,6 +134,43 @@ Note the corollary, which Pitcher Partners puts crisply: **I1 is triggered by a 
 residency, not by asset location — moving coins to a foreign exchange or a foreign wallet
 achieves nothing.**
 
+### The escape hatches, and why all of them are closed
+
+There are exactly three statutory routes out of CGT event I1. It is worth naming them, because
+two are real provisions that genuinely exempt the gain — not merely defer it — and a taxpayer
+looking for "the obscure method" will eventually find them. Both are closed to this taxpayer.
+
+**1. The short-term resident exception — former s 104‑165(1).** Until 2006 an individual could
+**disregard** the I1 gain outright if they had been an Australian resident for **fewer than 5 of
+the previous 10 years** and either owned the asset before last becoming a resident or acquired it
+through a death. This was a true exemption, not a deferral. It was **repealed** by the *Tax Laws
+Amendment (2006 Measures No. 4) Act 2006*, Sch 1 item 20, for CGT events happening on or after
+**1 July 2006**.
+
+It survives only through **s 104‑166 of the *Income Tax (Transitional Provisions) Act 1997***,
+which preserves it for a person who was in Australia on **6 April 2006**, remained an Australian
+resident continuously from that day until ceasing, and was resident for fewer than 5 of the 10
+years before ceasing. **A lifelong Australian citizen fails this comprehensively** — and on
+6 April 2006 a taxpayer who is 34 in 2026 was 14 years old. 🔴 Closed.
+
+**2. The temporary resident exemption — s 768‑915.** An individual who was a **temporary
+resident** immediately before ceasing Australian residency disregards the I1 gain entirely. But
+"temporary resident" is defined in **s 995‑1(1)** as a person who holds a temporary visa under the
+*Migration Act 1958*, is **not** an Australian resident within the meaning of the *Social Security
+Act 1991*, and has no spouse who is. Australian citizens **are** Australian residents under that
+Act. **An Australian citizen can therefore never be a temporary resident.** 🔴 Categorically closed.
+
+**3. The carve-out inside s 104‑160 itself.** The section excludes assets that are taxable
+Australian property under **items 1, 3 or 4** of the s 855‑15 table — Australian real property,
+assets used through an Australian permanent establishment, and options over them. Bitcoin is none
+of these. 🔴 Not available.
+
+> **The conclusion this forces:** the exit charge is the one genuinely unavoidable element of the
+> strategy, and it is unavoidable **by design**. Parliament closed the last general exemption in
+> 2006 precisely because departing residents were using it this way. Anyone offering an "obscure
+> method" to escape CGT event I1 on these facts is describing either a repealed provision, a
+> provision that requires not being an Australian citizen, or non-disclosure.
+
 ### The calculation on these facts
 
 | | |
@@ -274,6 +311,41 @@ competent adviser signs off on.
 mistaken for a general rule — is the illiquid case: a departing taxpayer whose I1 assets are
 unlisted shares or an interest in a private business that cannot be sold to fund the tax. That
 is not this taxpayer. Bitcoin is liquid.
+
+---
+
+### ⚠️ The most common misconception: "there is no treaty with the UAE, so Australia cannot tax it"
+
+This is the single most expensive error available in this plan, and it is intuitive enough that
+it needs stating explicitly.
+
+**A tax treaty never creates a taxing right. It only restricts rights that domestic law has
+already conferred.** Applied here:
+
+| Step | Effect |
+|---|---|
+| s 104‑165(3) deems the Bitcoin to be TAP | Australia's charge arises under **domestic law** |
+| s 855‑10 disregards a foreign resident's gain only on a **non**-TAP asset | Switched off by the deeming |
+| A DTA *could* override that (Agreements Act s 4(2)) if its alienation article gave exclusive residence-state rights | **Only a treaty can remove the charge** |
+| **No treaty exists with the UAE** | **Nothing removes the charge. It stands in full.** |
+
+So the absence of an Australia–UAE DTA does not free the gain — it **guarantees** Australia keeps
+it. The UAE is not the jurisdiction where the election works; it is the one place where the
+election can *never* work. Selling in a 0% jurisdiction changes only the *destination's* tax; it
+has no effect whatever on Australia's deemed-TAP charge.
+
+**The related "no collection assistance" idea fails for the same fact pattern.** It is true that
+Australia has no treaty mechanism to enforce a debt against UAE assets. But that concerns
+enforcement, not liability: the obligation to lodge and declare persists, the debt accrues general
+interest charge at roughly 11% compounding (≈$2.18m on $944,600 after eight years), and every
+enforcement difficulty evaporates the moment the taxpayer returns to Australia — which is the
+express plan. Relying on it is not deferral; it is non-disclosure.
+
+**Note what this means for the recommended route.** By crystallising I1, the Bitcoin becomes an
+ordinary non-TAP asset and s 855‑10 disregards the later gain under **domestic law alone**. No
+treaty is required, nothing needs to be argued, and there is nothing to conceal — the gain is
+genuinely not taxable and the position survives full disclosure. That is precisely why the UAE's
+lack of a treaty costs nothing on the recommended path, while being fatal on the aggressive one.
 
 ---
 
